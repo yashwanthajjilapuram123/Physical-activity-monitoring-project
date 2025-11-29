@@ -9,7 +9,7 @@ Hardware-based activity monitoring using accelerometer data to classify physical
 
 # Relevance
 
-This project builds a solid foundation for analyzing human motion and supports advanced applications in sports performance optimization—directly aligning with predictive modeling in swimming biomechanics and movement segmentation.
+This project builds a solid foundation for analyzing human motion and supports advanced applications in sports performance optimization—directly aligning with predictive modeling in ports biomechanics  and movement segmentation.
 
 # Contact
 
